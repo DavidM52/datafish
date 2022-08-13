@@ -1,3 +1,3 @@
-# datafish
-Retriving datas from database using Java
+# datafish  Desktop App
+Retriving datas from database using Java.
  
